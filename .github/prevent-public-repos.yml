@@ -1,6 +1,7 @@
 # Configuration for Prevent-Public-Repos
 
 privatizeRepo: true
+enablePrivateToPublic: true
 privatizedIssueTitle: '[CRITICAL] Public Repos Disabled'
 #privatizedIssueBody: 'NOTE: Public Repos are disabled for this organization! Repository was automatically converted to a Private Repo.\n\n'
 #warningIssueTitle: '[CRITICAL] Public Repository Created'

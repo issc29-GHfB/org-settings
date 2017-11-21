@@ -6,4 +6,4 @@ privatizedIssueTitle: '[CRITICAL] Public Repos Disabled'
 #warningIssueTitle: '[CRITICAL] Public Repository Created'
 #warningIssueBody: 'Please note that this repository is publicly visible to the internet!\n\n'
 ccList: '@issc29'
-#excludeRepos: []
+excludeRepos: ['test-pro']

@@ -13,7 +13,7 @@ privatizedIssueTitle: '[CRITICAL] Public Repositories are Disabled for this Org'
 privatizedIssueBody: 'NOTE: Public Repos are disabled for this organization! Repository was automatically converted to a Private Repo. Please contact an admin to override.'
 
 # Issue Title when monitor mode is enabled
-monitorIssueTitle: '[CRITICAL] Public Repository Created'
+monitorIssueTitle: 'testTitle'
 
 # Issue Body when monitor mode is enable
 monitorIssueBody: 'Please note that this repository is publicly visible to the internet!'

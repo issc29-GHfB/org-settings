@@ -16,7 +16,7 @@ privatizedIssueBody: 'NOTE: Public Repos are disabled for this organization! Rep
 monitorIssueTitle: 'testTitle'
 
 # Issue Body when monitor mode is enable
-monitorIssueBody: 'Please note that this repository is publicly visible to the internet!'
+monitorIssueBody: 'Please note that this repository is publicly visible to the internet!
 
 # Users/Groups that should be cc'ed on the issue. Should be users/groups separated by a space.
 # ccList: '@issc29'
